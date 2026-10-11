@@ -142,12 +142,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果漫剧.py"
     },
     {
-      "key": "红果听书",
-      "name": "红果听书.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果听书.py"
-    },
-    {
       "key": "MiFun",
       "name": "MiFun动漫.py",
       "type": 3,
