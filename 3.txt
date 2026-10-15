@@ -52,6 +52,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py"
     },
     {
+      "key": "juku",
+      "name": "juku.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/juku.py"
+    },
+    {
       "key": "youtube",
       "name": "油管.py",
       "type": 3,
@@ -176,6 +182,12 @@
       "name": "多聚短剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/多聚短剧.py"
+    },
+    {
+      "key": "绿果鉴_瑟瑟",
+      "name": "绿果鉴_瑟瑟.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/绿果鉴_瑟瑟.py"
     },
     {
       "key": "真果鉴",
