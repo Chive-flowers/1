@@ -52,12 +52,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py"
     },
     {
-      "key": "juku",
-      "name": "juku.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/juku.py"
-    },
-    {
       "key": "youtube",
       "name": "油管.py",
       "type": 3,
@@ -1310,12 +1304,6 @@
       "name": "黄果剧场.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果剧场.py"
-    },
-    {
-      "key": "野果",
-      "name": "野果.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/野果.py"
     },
     {
       "key": "2048成人短剧",
