@@ -1564,12 +1564,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/XChina.py"
     },
     {
-      "key": "麻豆影院",
-      "name": "麻豆影院.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麻豆影院.py"
-    },
-    {
       "key": "笔盒",
       "name": "笔盒.py｜🔞",
       "type": 3,
@@ -1664,6 +1658,12 @@
       "name": "麻豆社.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麻豆社.py"
+    },
+    {
+      "key": "麻豆影院",
+      "name": "麻豆影院.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麻豆影院.py"
     },
     {
       "key": "女优色库",
