@@ -118,6 +118,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果短剧new.py"
     },
     {
+      "key": "红果修复",
+      "name": "红果修复.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果修复.py"
+    },
+    {
       "key": "红果短剧最终版",
       "name": "红果短剧最终版.py",
       "type": 3,
@@ -1294,6 +1300,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果剧场.py"
     },
     {
+      "key": "野果",
+      "name": "野果.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/野果.py"
+    },
+    {
       "key": "2048成人短剧",
       "name": "2048成人短剧.py｜🔞",
       "type": 3,
@@ -1484,6 +1496,12 @@
       "name": "truvaze.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/truvaze.py"
+    },
+    {
+      "key": "Twitter精选",
+      "name": "Twitter精选.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Twitter精选.py"
     },
     {
       "key": "草榴社区",
