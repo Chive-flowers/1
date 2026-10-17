@@ -52,6 +52,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py"
     },
     {
+      "key": "咕噜咕噜4K",
+      "name": "咕噜咕噜4K.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/咕噜咕噜4K.py"
+    },
+    {
       "key": "youtube",
       "name": "油管.py",
       "type": 3,
