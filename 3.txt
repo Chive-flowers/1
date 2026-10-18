@@ -1390,12 +1390,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/夜社短剧.py"
     },
     {
-      "key": "香蕉短剧",
-      "name": "香蕉短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/香蕉短剧.py"
-    },
-    {
       "key": "ASMR听书",
       "name": "ASMR听书.py｜🔞",
       "type": 3,
@@ -2186,12 +2180,6 @@
       "name": "牛C网.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/牛C网.py"
-    },
-    {
-      "key": "中文大全",
-      "name": "中文大全.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/中文大全.py"
     },
     {
       "key": "玉女百科",
