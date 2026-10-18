@@ -1540,6 +1540,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/草榴社区.py"
     },
     {
+      "key": "草榴社区",
+      "name": "草榴社区_1(关梯).py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/草榴社区_1.py"
+    },
+    {
       "key": "糖心Vlog_1",
       "name": "糖心Vlog_1.py｜🔞",
       "type": 3,
