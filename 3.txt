@@ -3551,6 +3551,10 @@
       "url": "https://live.zhi35.com/radio.m3u"
     },
    {
+      "name": "tiktok",
+      "url": "https://tiktok.445569.xyz/live.m3u"
+    },
+   {
       "name": "Twitch",
       "url": "https://twitch.445569.xyz/live.m3u"
     }
