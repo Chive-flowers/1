@@ -1,7 +1,7 @@
 {
   "spider": "",
   "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
-  "warningText": "资源来自网络-免费收集",
+  "warningText": "资源来自网络-免费",
   "sites": [
     {
       "key": "IQ国际",
@@ -3549,10 +3549,6 @@
    {
       "name": "Radio",
       "url": "https://live.zhi35.com/radio.m3u"
-    },
-   {
-      "name": "tiktok",
-      "url": "https://tiktok.445569.xyz/live.m3u"
     },
    {
       "name": "Twitch",
