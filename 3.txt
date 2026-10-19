@@ -3551,14 +3551,6 @@
    {
       "name": 2,
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
-    },
-   {
-      "name": "Radio",
-      "url": "https://live.zhi35.com/radio.m3u"
-    },
-   {
-      "name": "Twitch",
-      "url": "https://twitch.445569.xyz/live.m3u"
     }
   ]
 }
