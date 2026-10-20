@@ -4,18 +4,6 @@
   "warningText": "资源来自网络-免费",
   "sites": [
     {
-      "key": "IQ国际",
-      "name": "IQ国际.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/IQ国际.py"
-    },
-    {
-      "key": "芒果tv",
-      "name": "芒果TV.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/芒果TV.py"
-    },
-    {
       "key": "腾讯视频",
       "name": "腾讯视频.py",
       "type": 3,
