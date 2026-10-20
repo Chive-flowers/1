@@ -184,12 +184,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/酷我短剧.py"
     },
     {
-      "key": "听友合体",
-      "name": "听友合体（免梯）.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/听友合体.py"
-    },
-    {
       "key": "喜马拉雅",
       "name": "喜马拉雅.py",
       "type": 3,
