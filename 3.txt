@@ -28,18 +28,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py"
     },
     {
-      "key": "youtube",
-      "name": "油管.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/油管.py"
-    },
-    {
-      "key": "ytb-sabrOnly",
-      "name": "ytb-sabrOnly.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/ytb-sabrOnly.py"
-    },
-    {
       "key": "油管直播",
       "name": "油管直播,py",
       "type": 3,
