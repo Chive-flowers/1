@@ -2134,6 +2134,36 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/牛C网.py"
     },
     {
+      "key": "91jav",
+      "name": "91jav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91jav.py"
+    },
+    {
+      "key": "HOMEJAV",
+      "name": "HOMEJAV.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/HOMEJAV.py"
+    },
+    {
+      "key": "Jable_2",
+      "name": "Jable_2.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jable_2.py"
+    },
+    {
+      "key": "jjavss",
+      "name": "jjavss.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/jjavss.py"
+    },
+    {
+      "key": "xszav",
+      "name": "xszav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/xszav.py"
+    },
+    {
       "key": "玉女百科",
       "name": "玉女百科.py｜🔞",
       "type": 3,
