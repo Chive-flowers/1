@@ -28,22 +28,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py"
     },
     {
-      "key": "油管直播",
-      "name": "油管直播,py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/油管直播.py"
-    },
-    {
       "key": "bilibili",
       "name": "哔哩直播.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/哔哩直播.py"
-    },
-    {
-      "key": "斗鱼",
-      "name": "斗鱼.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/斗鱼.py"
     },
     {
       "key": "聚合直播",
