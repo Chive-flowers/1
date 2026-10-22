@@ -928,6 +928,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/missav_2.py"
     },
     {
+      "key": "MissAV_3",
+      "name": "MissAV_3.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/MissAV_3.py"
+    },
+    {
       "key": "Jable",
       "name": "Jable.py｜🔞",
       "type": 3,
@@ -2138,12 +2144,6 @@
       "name": "jjavss.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/jjavss.py"
-    },
-    {
-      "key": "MissAV_3",
-      "name": "MissAV_3.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/MissAV_3.py"
     },
     {
       "key": "Px8x",
