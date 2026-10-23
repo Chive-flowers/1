@@ -52,12 +52,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果修复.py"
     },
     {
-      "key": "红果短剧最终版",
-      "name": "红果短剧最终版.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果短剧最终版.py"
-    },
-    {
       "key": "红果",
       "name": "红果.py",
       "type": 3,
@@ -124,12 +118,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/河马剧场.py"
     },
     {
-      "key": "糯米短剧",
-      "name": "糯米短剧.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/糯米短剧.py"
-    },
-    {
       "key": "酷我短剧",
       "name": "酷我短剧.py",
       "type": 3,
@@ -140,12 +128,6 @@
       "name": "喜马拉雅.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/喜马拉雅.py"
-    },
-    {
-      "key": "多聚听书",
-      "name": "多聚听书.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/多聚听书.py"
     },
     {
       "key": "悦听吧",
