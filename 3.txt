@@ -100,12 +100,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/酷我音乐.py"
     },
     {
-      "key": "音乐聚合",
-      "name": "音乐聚合.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/音乐聚合.py"
-    },
-    {
       "key": "聚合平台",
       "name": "聚合平台.py",
       "type": 3,
