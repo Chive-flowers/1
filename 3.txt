@@ -106,12 +106,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py"
     },
     {
-      "key": "色播聚合",
-      "name": "色播聚合.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/色播聚合.py"
-    },
-    {
       "key": "瑟瑟直播",
       "name": "瑟瑟直播.py｜🔞",
       "type": 3,
@@ -188,12 +182,6 @@
       "name": "女神短剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/女神短剧.py"
-    },
-    {
-      "key": "FikFap",
-      "name": "FikFap.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/FikFap.py"
     },
     {
       "key": "123AV",
