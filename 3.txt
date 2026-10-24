@@ -124,12 +124,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Pandalive直播.py"
     },
     {
-      "key": "熊猫直播",
-      "name": "熊猫直播.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/熊猫直播.py"
-    },
-    {
       "key": "myfreecams直播",
       "name": "myfreecams直播.py｜🔞",
       "type": 3,
