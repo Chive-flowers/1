@@ -1024,34 +1024,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/iQQTV.py"
     },
     {
-      "key": "精仙阁修复版",
-      "name": "精仙阁修复版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/精仙阁修复版.py"
-    },
-    {
-      "key": "UU直播破解",
-      "name": "UU直播破解.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/UU直播破解.py"
-    },
-    {
       "key": "七哥大洋马",
       "name": "七哥大洋马.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/七哥大洋马.py"
-    },
-    {
-      "key": "2048核基地",
-      "name": "2048核基地.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/2048核基地.py"
-    },
-    {
-      "key": "玩物社区",
-      "name": "玩物社区.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/玩物社区.py"
     },
     {
       "key": "91jav",
