@@ -430,12 +430,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/fulao.py"
     },
     {
-      "key": "xiang512",
-      "name": "xiang512.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/xiang512.py"
-    },
-    {
       "key": "avxq",
       "name": "avxq.py｜🔞",
       "type": 3,
@@ -1052,12 +1046,6 @@
       "name": "2048核基地.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/2048核基地.py"
-    },
-    {
-      "key": "萝莉岛",
-      "name": "萝莉岛.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/萝莉岛.py"
     },
     {
       "key": "玩物社区",
