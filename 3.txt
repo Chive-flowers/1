@@ -154,18 +154,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/tiktok连播流.py"
     },
     {
-      "key": "tiktok成人版",
-      "name": "tiktok成人版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/tiktok成人版.py"
-    },
-    {
-      "key": "女神短剧",
-      "name": "女神短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/女神短剧.py"
-    },
-    {
       "key": "123AV",
       "name": "123AV.py｜🔞",
       "type": 3,
@@ -1060,12 +1048,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/七哥大洋马.py"
     },
     {
-      "key": "中国x站",
-      "name": "中国x站.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/中国x站.py"
-    },
-    {
       "key": "2048核基地",
       "name": "2048核基地.py｜🔞",
       "type": 3,
@@ -1084,18 +1066,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/玩物社区.py"
     },
     {
-      "key": "X红颜",
-      "name": "X红颜.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/X红颜.py"
-    },
-    {
-      "key": "牛C网",
-      "name": "牛C网.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/牛C网.py"
-    },
-    {
       "key": "91jav",
       "name": "91jav.py｜🔞",
       "type": 3,
@@ -1112,12 +1082,6 @@
       "name": "Px8x.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Px8x.py"
-    },
-    {
-      "key": "小汤圆视频",
-      "name": "小汤圆视频.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/小汤圆视频.py"
     }
   ],
 "parses": [
