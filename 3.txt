@@ -724,28 +724,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/有声骚麦.py"
     },
     {
-      "key": "色情Asmr",
-      "name": "色情Asmr.py｜🔞",
+      "key": "hentaiasmr",
+      "name": "hentaiasmr.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/色情Asmr.py"
-    },
-    {
-      "key": "ASMR吧",
-      "name": "ASMR吧.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/ASMR吧.py"
-    },
-    {
-      "key": "ASMR月亮",
-      "name": "ASMR月亮.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/ASMR月亮.py"
-    },
-    {
-      "key": "星梦Asmr",
-      "name": "星梦Asmr.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/星梦Asmr.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/hentaiasmr.py"
     },
     {
       "key": "91动漫",
@@ -880,12 +862,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/糖心Vlog_2.py"
     },
     {
-      "key": "杏吧视频",
-      "name": "杏吧视频.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/杏吧视频.py"
-    },
-    {
       "key": "海角乱伦",
       "name": "海角乱伦(关梯).py｜🔞",
       "type": 3,
@@ -950,12 +926,6 @@
       "name": "阅妹阁聚合.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/阅妹阁聚合.py"
-    },
-    {
-      "key": "番茄视频",
-      "name": "番茄视频.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/番茄视频.py"
     },
     {
       "key": "18AV（免梯）",
@@ -1024,24 +994,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麻豆影院.py"
     },
     {
-      "key": "女优色库",
-      "name": "女优色库.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/女优色库.py"
-    },
-    {
-      "key": "rolizxwnoble",
-      "name": "rolizxwnoble.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/rolizxwnoble.py"
-    },
-    {
-      "key": "shaofu36",
-      "name": "shaofu36.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/shaofu36.py"
-    },
-    {
       "key": "8X8X",
       "name": "8X8X.py｜🔞",
       "type": 3,
@@ -1060,34 +1012,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/TOPTV.py"
     },
     {
-      "key": "GG51",
-      "name": "GG51.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/GG51.py"
-    },
-    {
       "key": "avgood",
       "name": "avgood.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/avgood.py"
-    },
-    {
-      "key": "MSAVX",
-      "name": "MSAVX(关梯）.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/MSAVX.py"
-    },
-    {
-      "key": "AV妞",
-      "name": "AV妞.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/AV妞.py"
-    },
-    {
-      "key": "鉴黄师_v5",
-      "name": "鉴黄师_v5.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/鉴黄师_v5.py"
     },
     {
       "key": "九九归一",
@@ -1106,36 +1034,6 @@
       "name": "真它妈多分类.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/真它妈多分类.py"
-    },
-    {
-      "key": "mjv011",
-      "name": "mjv011.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/mjv011.py"
-    },
-    {
-      "key": "mjv008",
-      "name": "mjv008.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/mjv008.py"
-    },
-    {
-      "key": "p108",
-      "name": "p108.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/p108.py"
-    },
-    {
-      "key": "luoju",
-      "name": "luoju.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/luoju.py"
-    },
-    {
-      "key": "wnzs",
-      "name": "wnzs.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/wnzs.py"
     },
     {
       "key": "DSAV",
