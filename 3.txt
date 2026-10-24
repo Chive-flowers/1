@@ -238,12 +238,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/theporny.py"
     },
     {
-      "key": "javfree",
-      "name": "javfree.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/javfree.py"
-    },
-    {
       "key": "javhd",
       "name": "javhd.py｜🔞",
       "type": 3,
@@ -308,12 +302,6 @@
       "name": "Xvideos.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Xvideos.py"
-    },
-    {
-      "key": "Xvideos_1",
-      "name": "Xvideos_1.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Xvideos_1.py"
     },
     {
       "key": "Pornhub",
@@ -406,12 +394,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/321av.py"
     },
     {
-      "key": "5lxtv",
-      "name": "5lxtv.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/5lxtv.py"
-    },
-    {
       "key": "sst",
       "name": "sst.py｜🔞",
       "type": 3,
@@ -434,12 +416,6 @@
       "name": "avxq.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/avxq.py"
-    },
-    {
-      "key": "818黑料网",
-      "name": "818黑料网.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/818黑料网.py"
     },
     {
       "key": "heiliao",
