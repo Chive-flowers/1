@@ -76,22 +76,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/多聚短剧.py"
     },
     {
-      "key": "酷我短剧",
-      "name": "酷我短剧.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/酷我短剧.py"
-    },
-    {
       "key": "喜马拉雅",
       "name": "喜马拉雅.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/喜马拉雅.py"
-    },
-    {
-      "key": "酷我音乐",
-      "name": "酷我音乐.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/酷我音乐.py"
     },
     {
       "key": "瑟瑟直播",
