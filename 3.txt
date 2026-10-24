@@ -22,6 +22,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py"
     },
     {
+      "key": "聚合平台",
+      "name": "聚合平台.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py"
+    },
+    {
       "key": "bilibili",
       "name": "哔哩直播.py",
       "type": 3,
@@ -70,12 +76,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/多聚短剧.py"
     },
     {
-      "key": "真果鉴",
-      "name": "真果鉴.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/真果鉴.py"
-    },
-    {
       "key": "酷我短剧",
       "name": "酷我短剧.py",
       "type": 3,
@@ -92,12 +92,6 @@
       "name": "酷我音乐.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/酷我音乐.py"
-    },
-    {
-      "key": "聚合平台",
-      "name": "聚合平台.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py"
     },
     {
       "key": "瑟瑟直播",
@@ -622,6 +616,24 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/每日大乱斗.py"
     },
     {
+      "key": "91成人短剧",
+      "name": "91成人短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧.py"
+    },
+    {
+      "key": "91成人短剧_1",
+      "name": "91成人短剧_1.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧_1.py"
+    },
+    {
+      "key": "91出品短剧",
+      "name": "91出品短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91出品短剧.py"
+    },
+    {
       "key": "51短剧",
       "name": "51短剧.py｜🔞",
       "type": 3,
@@ -658,6 +670,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/绿果鉴_瑟瑟.py"
     },
     {
+      "key": "真果鉴",
+      "name": "真果鉴.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/真果鉴.py"
+    },
+    {
       "key": "2048成人短剧",
       "name": "2048成人短剧.py｜🔞",
       "type": 3,
@@ -670,30 +688,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/禁果短剧.py"
     },
     {
-      "key": "91成人短剧",
-      "name": "91成人短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧.py"
-    },
-    {
-      "key": "91成人短剧_1",
-      "name": "91成人短剧_1.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧_1.py"
-    },
-    {
-      "key": "91出品短剧",
-      "name": "91出品短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91出品短剧.py"
-    },
-    {
-      "key": "PTT短剧",
-      "name": "PTT短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/PTT短剧.py"
-    },
-    {
       "key": "橙果",
       "name": "橙果.py｜🔞",
       "type": 3,
@@ -704,6 +698,12 @@
       "name": "黄豆短剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄豆短剧.py"
+    },
+    {
+      "key": "PTT短剧",
+      "name": "PTT短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/PTT短剧.py"
     },
     {
       "key": "夜社短剧",
