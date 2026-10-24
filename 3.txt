@@ -808,12 +808,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/糖心Vlog_1.py"
     },
     {
-      "key": "糖心Vlog_2",
-      "name": "糖心Vlog_2.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/糖心Vlog_2.py"
-    },
-    {
       "key": "海角乱伦",
       "name": "海角乱伦(关梯).py｜🔞",
       "type": 3,
@@ -844,12 +838,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/小红薯APP.py"
     },
     {
-      "key": "XChina",
-      "name": "XChina.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/XChina.py"
-    },
-    {
       "key": "笔盒",
       "name": "笔盒.py｜🔞",
       "type": 3,
@@ -868,26 +856,14 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/qinav.py"
     },
     {
-      "key": "小黄书",
-      "name": "小黄书.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/小黄书.py"
-    },
-    {
-      "key": "阅妹阁聚合",
-      "name": "阅妹阁聚合.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/阅妹阁聚合.py"
-    },
-    {
-      "key": "18AV（免梯）",
-      "name": "18AV.py（免梯）｜🔞",
+      "key": "18AV",
+      "name": "18AV.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/18AV.py"
     },
     {
-      "key": "18AV_1（免梯）",
-      "name": "18AV_1.py（免梯）｜🔞",
+      "key": "18AV_1",
+      "name": "18AV_1.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/18AV_1.py"
     },
@@ -904,28 +880,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/蜜桃AV.py"
     },
     {
-      "key": "蜜桃FC2",
-      "name": "蜜桃FC2.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/蜜桃FC2.py"
-    },
-    {
-      "key": "蜜桃视频",
-      "name": "蜜桃视频.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/蜜桃视频.py"
-    },
-    {
       "key": "黄色仓库动态版",
       "name": "黄色仓库动态版.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄色仓库动态版.py"
-    },
-    {
-      "key": "E佬通用视频",
-      "name": "E佬通用视频.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/E佬通用视频.py"
     },
     {
       "key": "madou8",
