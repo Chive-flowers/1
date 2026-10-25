@@ -40,18 +40,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/直播大全.py"
     },
     {
-      "key": "红果短剧new",
-      "name": "红果短剧new.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果短剧new.py"
-    },
-    {
-      "key": "红果修复",
-      "name": "红果修复.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果修复.py"
-    },
-    {
       "key": "红果",
       "name": "红果.py",
       "type": 3,
@@ -62,12 +50,6 @@
       "name": "果果短剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/果果短剧.py"
-    },
-    {
-      "key": "红果漫剧",
-      "name": "红果漫剧.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果漫剧.py"
     },
     {
       "key": "多聚短剧",
