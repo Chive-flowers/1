@@ -40,12 +40,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/直播大全.py"
     },
     {
-      "key": "红果",
-      "name": "红果.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/hongguo.py"
-    },
-    {
       "key": "果果短剧",
       "name": "果果短剧.py",
       "type": 3,
@@ -220,12 +214,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/FCJAV.py"
     },
     {
-      "key": "missav",
-      "name": "missav.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/missav.py"
-    },
-    {
       "key": "missav_1",
       "name": "missav_1.py｜🔞",
       "type": 3,
@@ -370,12 +358,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/lissav.py"
     },
     {
-      "key": "fulao",
-      "name": "fulao.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/fulao.py"
-    },
-    {
       "key": "avxq",
       "name": "avxq.py｜🔞",
       "type": 3,
@@ -392,12 +374,6 @@
       "name": "黑料论坛.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黑料论坛.py"
-    },
-    {
-      "key": "黑料",
-      "name": "黑料.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黑料.py"
     },
     {
       "key": "今日看料",
@@ -586,12 +562,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/绿果鉴_瑟瑟.py"
     },
     {
-      "key": "真果鉴",
-      "name": "真果鉴.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/真果鉴.py"
-    },
-    {
       "key": "2048成人短剧",
       "name": "2048成人短剧.py｜🔞",
       "type": 3,
@@ -608,12 +578,6 @@
       "name": "橙果.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果.py"
-    },
-    {
-      "key": "黄豆短剧",
-      "name": "黄豆短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄豆短剧.py"
     },
     {
       "key": "PTT短剧",
@@ -818,18 +782,6 @@
       "name": "qinav.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/qinav.py"
-    },
-    {
-      "key": "18AV",
-      "name": "18AV.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/18AV.py"
-    },
-    {
-      "key": "18AV_1",
-      "name": "18AV_1.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/18AV_1.py"
     },
     {
       "key": "18av主站",
